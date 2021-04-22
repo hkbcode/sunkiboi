@@ -1,1 +1,1 @@
-## Reactjs app starter with ChakraUI
+## Reactjs app with chakraui
